@@ -1,0 +1,10 @@
+{
+    "BERT_MODEL": "alger-ia/dziribert",
+    "PRE_TRAINED_MODEL": "assets/dziribert_best_model.bin",
+    "CLASS_NAMES": [
+        "negative",
+        "neutral",
+        "positive"
+    ],
+    "MAX_SEQUENCE_LEN": 100
+}
